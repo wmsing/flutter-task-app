@@ -8,7 +8,9 @@ Portfolio sample, not production.
 
 ## Screenshots
 
-Add `screenshots/list.png` (and optional `complete.png`) after you run the app locally.
+| List | Complete |
+|------|----------|
+| ![Task list](screenshots/list.png) | ![Complete task](screenshots/complete.png) |
 
 ## Stack
 
