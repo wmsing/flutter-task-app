@@ -1,6 +1,6 @@
 # flutter-task-app
 
-Flutter client + Go REST API，本地可跑通 CRUD 子集（list / create / complete）。
+Flutter client for the Go REST API — local CRUD subset: list, create, and complete.
 
 **Pair:** [go-tasks-api](https://github.com/wmsing/go-tasks-api) — run this API first.
 
